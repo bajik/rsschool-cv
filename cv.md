@@ -18,8 +18,10 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 - Git
 - MySql, PostgreSql
 - Go (Basic)
-- PHP (Basic)
+- PHP (Basic)  
+
 ##  Code Example
+
 ```javascript
 const sum(a, b) => {
   return a + b;
@@ -28,6 +30,7 @@ const sum(a, b) => {
 let result = sum(1, 2);
 alert(result);
 ```
+
 ## Education
 - **University:** Kharkiv Polytechnic Institute
 - **Codewars:** ![codewars](https://www.codewars.com/users/rsschool_b13c8cd365c7302b/badges/micro)
